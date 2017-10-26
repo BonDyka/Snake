@@ -1,6 +1,6 @@
 ### Snake
 ***
-The game on Java created after watching video-lessons from [YouTube][Tube]
+**The game on Java created after watching video-lessons from [YouTube][Tube]**
 
 
 
